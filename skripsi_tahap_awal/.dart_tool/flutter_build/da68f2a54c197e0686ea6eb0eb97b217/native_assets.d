@@ -1,0 +1,1 @@
+ /home/ikura/Android/FlutterPractise/skripsi_tahap_awal/.dart_tool/flutter_build/da68f2a54c197e0686ea6eb0eb97b217/native_assets.yaml: 
